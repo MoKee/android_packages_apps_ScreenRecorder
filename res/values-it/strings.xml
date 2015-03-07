@@ -7,6 +7,7 @@
   <string name="notification_recording_finished_text">tocca per vedere %s</string>
   <string name="notification_recording_error_title">errore durante registrazione schermo</string>
   <string name="notification_video_processing_title">processando video</string>
+  <string name="notification_video_finished_title">Registrazione completata</string>
   <string name="notification_action_stop_recording">ferma registrazione</string>
   <string name="notification_action_show_touch">Visualizza tocco</string>
   <string name="error_unable_to_create_directory">Impossibile creare la directory di uscita.</string>

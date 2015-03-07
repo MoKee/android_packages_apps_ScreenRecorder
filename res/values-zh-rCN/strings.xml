@@ -7,6 +7,7 @@
   <string name="notification_recording_finished_text">轻触即可查看 %s</string>
   <string name="notification_recording_error_title">屏幕录像失败</string>
   <string name="notification_video_processing_title">正在处理录制的视频</string>
+  <string name="notification_video_finished_title">录制完成</string>
   <string name="notification_action_stop_recording">停止录制</string>
   <string name="notification_action_show_touch">触摸显示</string>
   <string name="error_unable_to_create_directory">无法创建输出目录。</string>

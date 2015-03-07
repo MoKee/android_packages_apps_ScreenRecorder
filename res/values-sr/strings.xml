@@ -7,6 +7,7 @@
   <string name="notification_recording_finished_text">Притиснути за преглед %s</string>
   <string name="notification_recording_error_title">Грешка</string>
   <string name="notification_video_processing_title">Обрада снимка</string>
+  <string name="notification_video_finished_title">Снимање завршено</string>
   <string name="notification_action_stop_recording">Зауставити снимање</string>
   <string name="notification_action_show_touch">Приказ додира екрана</string>
   <string name="error_unable_to_create_directory">Немогуће креирати циљну фасциклу.</string>
